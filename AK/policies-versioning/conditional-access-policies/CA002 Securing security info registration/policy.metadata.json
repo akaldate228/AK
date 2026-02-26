@@ -1,3 +1,19 @@
 {
-  "tags": ["Secure foundation", "Zero Trust", "Remote work"]
+
+"versions": {
+
+"1.0.0": {
+
+"changeLog": "Initial release with basic configuration"
+
+},
+
+"1.0.1": {
+
+"changeLog": "Bug fixes and performance improvements"
+
+}
+
+}
+
 }
