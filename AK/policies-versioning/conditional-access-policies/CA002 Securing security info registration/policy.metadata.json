@@ -1,5 +1,19 @@
 {
 
-"tags": ["security"]
+"versions": {
+
+"1.0.0": {
+
+"changeLog": "Initial release"
+
+},
+
+"1.0.2": {
+
+"changeLog": "Major feature update with new capabilities"
+
+}
+
+}
 
 }
