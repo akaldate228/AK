@@ -1,6 +1,6 @@
 {
     "templateId": "c7503427-338e-4c5e-902d-abe252abfb43",
-    "displayName": "1.0.1 CA003: Require multifactor authentication for admins",
+    "displayName": "1.0.1 CA004: Require multifactor authentication for admins",
     "state": "enabled",
     "partialEnablementStrategy": null,
     "sessionControls": null,
